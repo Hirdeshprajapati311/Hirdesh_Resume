@@ -11,6 +11,23 @@ Enthusiastic and motivated Java enthusiast eager to kickstart a career in softwa
 - 10th Passed with First Class Distinction
 - 12th Passed with Distinction 
 
+## Work Experience
+### Medical Sales Person
+- Thorat medical and general stores (2 years) 2019-2020
+- Bhatia medical Day and Night (1 year) 2021-2022
+
+### Data Entry Operator
+- BARC in NPCIL (7 Months) 2023
+
+## Projects
+### Flutter Application
+An E-commerce driven application (OLX-clone) Based on Google’s open environment Framework i.e. Flutter with integrated firebase as database and backend containing several APIs to support major data transfer (image uploading, text as user info) and frontend UX Design APIs like Dialogebox, navigationbar, locationaccesing (api). 
+- Project status : Incomplete
+
+### React WebApplication
+A Text modification oriented webapplication. Based on Facebook’s Framework i.e. React.js containing prebuild components by bootstrap with JSX to power users efficiency by letting them convert their lowercase text into the UPPERCASE text or vise-versa including other features featured by text utils webapplication.
+- Project status : Complete
+
 ## Skills
 - Flutter UI Designing
 - Firebase basics
