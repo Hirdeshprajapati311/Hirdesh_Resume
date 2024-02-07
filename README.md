@@ -5,17 +5,16 @@ Enthusiastic and motivated Java enthusiast eager to kickstart a career in softwa
 
 ## Education
 ### Degree Acadmics
-BScIT Graduate Securing 9.2 CGPA Overall
+- BScIT Graduate Securing 9.2 CGPA Overall
 
 ### High School Acadmics
-10th Passed with First Class Distinction
-
-12th Passed with Distinction 
+- 10th Passed with First Class Distinction
+- 12th Passed with Distinction 
 
 ## Skills
-Flutter UI Designing, Firebase basics, React (Components, props with bootstrap),
-JavaScript Basics.
-MS Word, Excel, Power Point, Power BI, ProgeCAD, QGIS.
-Typing Speed: 45WPM
-
-
+- Flutter UI Designing
+- Firebase basics
+- React (Components, props with bootstrap)
+- JavaScript Basics
+- MS Word, Excel, Power Point, Power BI, ProgeCAD, QGIS
+- Typing Speed: 45WPM
